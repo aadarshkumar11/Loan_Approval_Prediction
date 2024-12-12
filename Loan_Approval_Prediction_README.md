@@ -85,5 +85,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 For inquiries or suggestions, reach out to:
-- **Email**: your-email@example.com
-- **GitHub Profile**: [Your GitHub](https://github.com/your-username)
+- **Email**: aadarshsrivastav08@gmail.com
+- **GitHub Profile**: [](https://github.com/aadarshkumar11)
